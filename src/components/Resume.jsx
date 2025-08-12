@@ -12,7 +12,7 @@ export default function Resume() {
             <div className='md:w-1/2 flex justify-center'>
                 <div className='flex flex-col justify-center text-white'>
                     <h1 className='font-sora text-3xl border-b-2 mb-5 w-[140px] font-bold'>Resume</h1>
-                    <p className='font-karla pb-5'>You can View My Resume <a className='btn' href="/assets/venkadesh.pdf" 
+                    <p className='font-karla pb-5'>You can View My Resume <a className='btn' href="/assets/Venkadesh.pdf" 
                             download="Venkadesh-Resume.pdf">Download</a></p>
                     </div>
             </div>
