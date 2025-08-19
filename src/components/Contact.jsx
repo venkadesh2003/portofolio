@@ -4,7 +4,7 @@ export default function Contact() {
             <div className='flex flex-col items-center text-white text-center'>
                 <h1 className='font-sora text-3xl border-b-2 mb-5 w-[140px] font-bold'>Contact</h1>
                 <p className='font-karla pb-5'>
-                    If you’d like to discuss a project or job opportunity, feel free to reach out.
+                   Let’s connect to work on exciting web development opportunities.
                 </p>
                 <p className='font-karla py-2'>
                     <span className='font-bold'>Email :</span>
